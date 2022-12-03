@@ -1,0 +1,40 @@
+What is Javascript?
+Javascript is a programming language.
+
+Why Javascript?
+1. Because Javascript is used and supported by all the browsers.
+2. Because Javascript can be used for both Frontend and Backend and Even Database 
+   openly supports JS.
+3. Because of huge community support of Javascript, which helps in error debugging
+    and implementation of features.
+4. Javascript is used by top notch companies.
+5. Huge trends in Javascript in modern days.
+6. Javascript can be used with Mobile Dev(React Native),
+     Web Dev (MERN) and many more.
+7. We need to learn Javascript Because we want to learn React(Frontend) and Node (Backend)
+8 Javascript is very important for MERN Development
+MERN is a subset of Full stack Development.
+M=>MongoDB (Database)
+E=>ExpressJS (Backend server)
+R=> ReactJS (Frontend)
+N=> NodeJS (Backend server)
+
+
+How to run Javascript?
+1. Every language need a driver/compiler for running
+ e.g/ C++=>g++ etc
+
+Similary for JS, we use Node as a driver.
+
+Steps to download Node.
+Go to official site and download Nodejs for windows
+LTS version.
+1. Search nodejs on google.
+2. Visit Downloads section of Official site
+3. Download node LTS version
+
+
+Javascript in VSCODE.
+1. We need to have filenames ending with .js extension,
+  to make system aware that we are using Javascript.
+2. To run Javascript file, we run command "node filename" on terminal
