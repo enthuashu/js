@@ -1,8 +1,8 @@
 Topics to be covered
-1. Intro Printing in JS
-2. Variables, datatypes and operators
+1. Intro Printing in JS    ✅
+2. Variables, datatypes and operators  ✅
 3. Array, Object, Array of an object,Date Object
-4. Conditional statements
-5. Loops
+4. Loops
+5. Conditional statements
 6. Functions
 7. Modern Javscript
