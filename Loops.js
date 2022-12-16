@@ -1,8 +1,25 @@
 // alpha        //beta      //gamma
-// for (let index = 0; index < 100; index = index + 1) {
-//   // here we write the code which is needed to be repeated
-//   console.log("My name is falana");
-// }
+let a = 1;
+
+a = a + 5;
+console.log(a); //6
+
+a = a + 5;
+console.log(a); //11
+
+a = a + 5;
+console.log(a); //16
+
+a = a + 5;
+console.log(a); // 21
+a = a + 5;
+console.log(a); // 21
+a = a + 5;
+console.log(a); // 21
+a = a + 5;
+console.log(a); // 21
+a = a + 5;
+console.log(a); // 21
 
 // console.log("Looping completed and came out of For loop bracket");
 
@@ -44,10 +61,10 @@
 
 // let dynamicSentence = "Hello I am from ";
 
-let collegename = "BBD";
-let CGPA = 8.0;
-// First way
-// console.log("Hello I am from ", collegename);
+// let collegename = "BBD";
+// let CGPA = 8.0;
+// // First way
+// // console.log("Hello I am from ", collegename);
 
-//second way
-console.log(`Hello I am from ${collegename} and my current cgpa is ${CGPA}`);
+// //second way
+// console.log(`Hello I am from ${collegename} and my current cgpa is ${CGPA}`);
