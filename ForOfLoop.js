@@ -6,7 +6,9 @@
 //     console.log(arr[i]);
 // }
 
-const arr = [
+// For of loop is similar as, array mapping, array find
+
+const practicearr = [
   "Element 1",
   "Element 2",
   "Element 3",
@@ -16,11 +18,23 @@ const arr = [
   "Element 7",
 ];
 // a similar kind of short for of loop can be achieved to do the same task
-for (let candidate of arr) {
-  if (candidate === "Element 3") {
-    continue;
-  }
-  console.log(candidate);
-}
+// for (let candidate of practicearr) {
+//   console.log(candidate, " of for of loop");
+// }
 // The variable a starts from first element of array and goes to last
 // by updating its value to next element one by one
+
+// array mapping
+// arrayname.map((candidate)=>{
+
+// })
+// practicearr.map((candidate) => {
+//   console.log(candidate, " of mapping");
+// });
+
+// array find
+// const findedelement = practicearr.find((candidate) => {
+//   return candidate === "Element 4";
+// });
+
+// console.log(findedelement);
