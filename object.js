@@ -36,3 +36,10 @@ const tutorialcopy10rs = {
 // to get all the keys of an object
 // const objectkeys = Object.keys(tutorialcopy10rs);
 // console.log(objectkeys);
+
+tutorialcopy10rs.rollno = "ec2019041035";
+tutorialcopy10rs.name = "Satyam Mishra";
+tutorialcopy10rs.branch = "Chemical";
+tutorialcopy10rs.session = "2023-2027";
+
+console.log(tutorialcopy10rs);
