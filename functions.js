@@ -39,27 +39,32 @@ const interiorFunction = () => {
   console.log("Interior work is done");
 };
 
+//non-returning
+const fakegehupisana = () => {
+  console.log("gehupisana in progress");
+};
 const securityfunction = () => {
-  console.log("Security work is done");
+  console.log("gehupisana in progress");
 };
 
+fakegehupisana();
+
 // car 1
-enginefunction();
-mechanicalfunction();
-interiorFunction();
-securityfunction();
-console.log("Car 1 manufacutred");
+// enginefunction();
+// mechanicalfunction();
+// interiorFunction();
+// console.log("Car 1 manufacutred");
 
-// car 2
-enginefunction();
-mechanicalfunction();
-interiorFunction();
-securityfunction();
-console.log("car 2 manufactured");
+// // car 2
+// enginefunction();
+// mechanicalfunction();
+// interiorFunction();
+// securityfunction();
+// console.log("car 2 manufactured");
 
-// car 3
-enginefunction();
-mechanicalfunction();
-interiorFunction();
-securityfunction();
-console.log("car 3 manufactured");
+// // car 3
+// enginefunction();
+// mechanicalfunction();
+// interiorFunction();
+// securityfunction();
+// console.log("car 3 manufactured");
